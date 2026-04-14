@@ -15,10 +15,11 @@ A responsive and interactive Number Guessing Game built using HTML, CSS, and Jav
 - JavaScript
 
 ## 📸 Preview
-(Add screenshot here later)
+![Game Preview](project-preview.png)
 
 ## 🌐 Live Demo
-(Add your deployed link here)
+[Click here to play the game]
+https://samruddhigore-dev.github.io/guessing-game/
 
 ## 📌 How to Run
 1. Download the project
